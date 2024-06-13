@@ -1,7 +1,7 @@
 # Pandas
 
 Pandas is a powerful open-source data analysis and  manipulation library.In this repository, I covered all the datastructures and important functions of pandas to deal with structured data.<br>
-The below operations are executed on a real time weather dataset from kaggle to deepen the understanding
+The below operations are executed on a real time weather dataset from kaggle with mini challenges for better understanding
 <ul>
   <li>Initializing dataframe/series from different datatype</li>
   <li>Indexes</li>
